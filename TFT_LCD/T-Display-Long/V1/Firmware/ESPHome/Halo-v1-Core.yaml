@@ -22,14 +22,14 @@ external_components:
     components: [axs15231, sy6970]
 
 spi:
-  id: lily_spi
-  type: quad
-  clk_pin: 17
-  data_pins:
-    - 13
-    - 18
-    - 21
-    - 14
+  - id: lily_spi
+    type: quad
+    clk_pin: 17
+    data_pins:
+      - 13
+      - 18
+      - 21
+      - 14
 
 captive_portal:
 

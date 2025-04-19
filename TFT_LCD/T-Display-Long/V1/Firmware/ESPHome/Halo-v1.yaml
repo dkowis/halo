@@ -7,7 +7,7 @@ esphome:
     build_unflags: -Werror=all
     board_build.flash_mode: qio
     board_build.prsam_type: opi
-    board_build.f_flash: 120000000L
+    board_build.f_flash: 80000000L
     board_build.f_cpu: 240000000L
 
   min_version: 2025.2.0

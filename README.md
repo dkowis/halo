@@ -109,7 +109,3 @@ We love tinkerers, dreamers, and anyone who thinks, “You know what HALO really
 </p>
 
 ---
-
-
-
-
